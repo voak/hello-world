@@ -1,6 +1,3 @@
 # hello-world
-#
-#
-GiTHuB guide
-#
-# Learning GITHUB utility
+
+GiTHuB guide - Learning GITHUB utility
